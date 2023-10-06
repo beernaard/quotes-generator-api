@@ -1,0 +1,24 @@
+.quote-container{
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+}
+
+.quote{
+    text-align: left;
+    line-height: 2;
+    font-weight: 500;
+    font-size: 15px;
+    user-select: none;
+    caret-color: transparent;
+}
+
+.author{
+    margin-top: 2rem;
+    align-self: flex-end;
+    font-weight: 700;
+    color: rgb(49, 49, 151);
+    font-size: 20px;
+    user-select: none;
+    caret-color: transparent;
+}

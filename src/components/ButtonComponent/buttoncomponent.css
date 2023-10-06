@@ -1,0 +1,20 @@
+.button-container{
+    width: 100%;
+   display: flex;
+   display: flex;
+   justify-content: center;
+}
+.get-quote-btn{
+    border: none;
+    outline: none;
+    background-color: rgb(71, 71, 166);
+    border-radius: 1.4rem;
+    padding: 1rem;
+    width: 170px;
+    height: 50px;
+    margin: 2rem 0;
+    color: #fff;
+    font-weight: 700;
+    font-size: 20px;
+    cursor: pointer;
+}
