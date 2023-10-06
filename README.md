@@ -8,7 +8,7 @@ quote generator built in react frameowork with a category function
 
 ### Application
 
-learned to fecht API data with Axios, uses async/await and env to hide secrets
+learned to fetch API data with Axios, uses async/await and env to hide secrets
 
 ### UI
 ![Screenshot 2023-10-06 185226](https://github.com/beernaard/random-api/assets/142719026/562a2a13-8892-4a18-b51c-38a0ac3460d9)
