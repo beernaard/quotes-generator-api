@@ -1,4 +1,4 @@
-# Random-Api-Generator
+# Quotes-Generator-Api
 
 quote generator built in react frameowork with a category function
 
