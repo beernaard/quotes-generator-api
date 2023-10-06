@@ -2,7 +2,7 @@
 
 quote generator built in react frameowork with a category function
 
-##@ quotes API from API Ninjas
+### quotes API from API Ninjas
 
 [In the project directory, you can run:](https://api-ninjas.com)
 
